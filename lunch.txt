@@ -1,4 +1,4 @@
-lunch:
+Lunch:
 
 1) pasta with tomato sauce and cheese
 2) b.l.t.
@@ -6,4 +6,4 @@ lunch:
 4) chicken noodle soup
 5) salad with anchovies & croutons
 6) sliced anchovy ice cream with anchovies
-8) generic foodstuff
+7) generic foodstuff
