@@ -1,2 +1,4 @@
 DINNER MENU:
-in progress
+Pizza
+Samosas
+
